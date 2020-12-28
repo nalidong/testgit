@@ -3,3 +3,7 @@ Git is free software distributed under the GPL.
 git has a mutable index called stage.
 
 git tracks changes.
+git commit --allow-empty-message -m ""
+使用空的注释提交
+
+create github repo successed!
