@@ -14,3 +14,4 @@ git push 免输入密码
 test
 Creating a new branch is quick and simple.
 分支管理策略
+stash
