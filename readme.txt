@@ -7,3 +7,5 @@ git commit --allow-empty-message -m ""
 使用空的注释提交
 
 create github repo successed!
+
+creating a new branch is quick.
