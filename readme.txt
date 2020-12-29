@@ -12,4 +12,4 @@ creating a new branch is quick.
 
 git push 免输入密码
 test
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
